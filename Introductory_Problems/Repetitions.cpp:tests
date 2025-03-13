@@ -1,0 +1,17 @@
+[
+	{
+		"test": "ATTCGGGA\n"
+	},
+	{
+		"test": "AAAGGCCACCCCGG\n"
+	},
+	{
+		"test": "ABCDEFG\n"
+	},
+	{
+		"test": "ABCDEFF\n"
+	},
+	{
+		"test": "A\n"
+	}
+]
